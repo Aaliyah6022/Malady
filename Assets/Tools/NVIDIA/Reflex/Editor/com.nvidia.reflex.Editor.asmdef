@@ -1,0 +1,15 @@
+{
+  "name": "com.nvidia.reflex.Editor",
+  "references": [
+    "com.nvidia.reflex.Runtime"
+  ],
+  "includePlatforms": [ "Editor" ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

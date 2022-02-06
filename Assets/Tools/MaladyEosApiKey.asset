@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2006c7a2843279e4598781ed39185dd0, type: 3}
+  m_Name: MaladyEosApiKey
+  m_EditorClassIdentifier: 
+  epicProductName: Zapchariot
+  epicProductVersion: 1.0
+  epicProductId: b442810dd40c434e8b3778e8b28e2778
+  epicSandboxId: a930d243298346d19a3021a70757afeb
+  epicDeploymentId: 2e022dfd14cf4f22bb09ed14f3956aa8
+  epicClientId: xyza7891t4lBS9sBXeuQwj4QmJZLMLPO
+  epicClientSecret: oa1WRS+fz0ltxg3oQi13SRhd+sHuC+SniGJqDtmV9J0
